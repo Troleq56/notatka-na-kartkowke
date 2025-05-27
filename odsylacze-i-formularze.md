@@ -34,7 +34,7 @@ to są takie podstawowe rzeczy jak chodzi o rodzaje to wiecej macie [tutaj](http
 
 # Ogólnie to te inputy muszą być w \<form\>
 
-> `form` to ten znacznik, w którym umieszczacie wszystkie pola. On też ma swoje główne parametry, które są potrzebne:
+> `form` to ten znacznik, w którym umieszczacie wszystkie pola. On też ma swoje główne parametry, które są potrzebne głównie jak macie php ale no xD:
 
 | Atrybut            | Opis |
 |--------------------|------|
